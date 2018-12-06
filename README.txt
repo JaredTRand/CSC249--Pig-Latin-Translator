@@ -1,4 +1,4 @@
-# JARED RAND
+# Reddit-GPU-Monitoring-Bot
 
 ## CSC-249-VB.NET-Project
 
