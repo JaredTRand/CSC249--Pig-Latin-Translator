@@ -1,4 +1,4 @@
-##JARED RAND##
+## JARED RAND
 
 # CSC-249-VB.NET-Project
 
