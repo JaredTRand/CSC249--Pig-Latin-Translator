@@ -1,6 +1,6 @@
-## JARED RAND
+# JARED RAND
 
-# CSC-249-VB.NET-Project
+## CSC-249-VB.NET-Project
 
 This project was meant to show our ability to use VB.net.
 
